@@ -1,6 +1,5 @@
 package ru.alexpvl.springmvc.models;
 
-
 import javax.validation.constraints.Email;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotEmpty;
